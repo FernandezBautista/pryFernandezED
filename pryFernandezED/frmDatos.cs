@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
 
-namespace pryEDFernandezB
+namespace pryFernandezED
 {
     public partial class frmDatos : Form
     {

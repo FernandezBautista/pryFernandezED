@@ -2,7 +2,7 @@
 using System.IO;
 using System.Windows.Forms;
 
-namespace pryEDFernandezB
+namespace pryFernandezED
 {
     public partial class frmClientes : Form
     {

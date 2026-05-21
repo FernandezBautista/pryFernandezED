@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace pryEDFernandezB
+namespace pryFernandezED
 {
     internal class clsNodos
     {

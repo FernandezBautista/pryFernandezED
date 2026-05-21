@@ -1,4 +1,4 @@
-﻿namespace pryEDFernandezB
+﻿namespace pryFernandezED
 {
     partial class frmListaDoble
     {

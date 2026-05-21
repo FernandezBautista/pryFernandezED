@@ -19,7 +19,7 @@ namespace pryFernandezED.Properties {
     // a través de una herramienta como ResGen o Visual Studio.
     // Para agregar o quitar un miembro, edite el archivo .ResX y, a continuación, vuelva a ejecutar ResGen
     // con la opción /str o recompile su proyecto de VS.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "18.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     public class Resources {
@@ -66,6 +66,16 @@ namespace pryFernandezED.Properties {
         public static System.Drawing.Bitmap _9qrMPtI {
             get {
                 object obj = ResourceManager.GetObject("9qrMPtI", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        public static System.Drawing.Bitmap Binary_tree__oriented_digraph_ {
+            get {
+                object obj = ResourceManager.GetObject("Binary_tree_(oriented_digraph)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

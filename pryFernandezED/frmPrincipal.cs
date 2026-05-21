@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace pryEDFernandezB
+namespace pryFernandezED
 {
     public partial class frmPrincipal : Form
     {
@@ -94,6 +94,12 @@ namespace pryEDFernandezB
         private void frmPrincipal_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void arbolToolStripMenuItem_Click_1(object sender, EventArgs e)
+        {
+            frmArbol arbol = new frmArbol();
+            arbol.ShowDialog();
         }
     }
 }
