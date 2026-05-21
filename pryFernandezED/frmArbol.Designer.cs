@@ -175,7 +175,7 @@
             // 
             // btnEquilibrar
             // 
-            this.btnEquilibrar.Location = new System.Drawing.Point(456, 149);
+            this.btnEquilibrar.Location = new System.Drawing.Point(456, 150);
             this.btnEquilibrar.Name = "btnEquilibrar";
             this.btnEquilibrar.Size = new System.Drawing.Size(195, 34);
             this.btnEquilibrar.TabIndex = 7;
